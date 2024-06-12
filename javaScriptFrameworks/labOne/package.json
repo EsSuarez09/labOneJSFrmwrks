@@ -1,0 +1,12 @@
+{
+  "name": "labone",
+  "version": "1.0.0",
+  "description": "javaScript lab1",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Estrella Suarez",
+  "license": "ISC"
+}
